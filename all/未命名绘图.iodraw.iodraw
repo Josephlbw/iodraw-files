@@ -129,7 +129,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-1" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;1.business_config_data接收业务申请的资源配置数据，保存状态为：申请中、已审批&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-1" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;1.business_config_data保存业务申请的资源配置数据，增加状态：申请中、已审批&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;2.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="640" height="500" as="geometry" />
         </mxCell>
       </root>
