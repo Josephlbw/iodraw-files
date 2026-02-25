@@ -132,7 +132,7 @@
         <mxCell id="KedwjEbMvOpd881-6sAJ-1" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;1.business_config_data保存业务申请的资源配置数据，其中包含系统名称、云资源id，增加状态：申请中、已审批&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;cloud_hosts_config_data 用于保存从天翼云历史云资源配置，这些配置都是在卫星公司名下的，并且状态：已稽核、已删除、待稽核&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;3.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="680" width="640" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-6" value="disk_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-6" value="flavor_cpu" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
           <mxGeometry x="480" y="387" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
