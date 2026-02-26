@@ -188,7 +188,7 @@
         <mxCell id="KedwjEbMvOpd881-6sAJ-17" value="天翼云接口" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-20" value="关联绑定" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-20" value="关联绑定（手工）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="-80" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
