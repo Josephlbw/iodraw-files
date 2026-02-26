@@ -161,7 +161,10 @@
           <mxGeometry x="-60" y="-440" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KedwjEbMvOpd881-6sAJ-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-440" width="270" height="270" as="geometry" />
+          <mxGeometry x="470" y="-440" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KedwjEbMvOpd881-6sAJ-13" value="效能平台" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-970" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
