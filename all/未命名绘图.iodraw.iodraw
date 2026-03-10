@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2038" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2276" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,80 +129,80 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-1" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;1.business_config_data保存业务申请的资源配置数据，其中包含系统名称、云资源id，增加状态：申请中、已审批&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;cloud_hosts_config_data 用于保存从天翼云历史云资源配置，这些配置都是在卫星公司名下的，并且状态：已稽核、已删除、待稽核&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;3.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-1" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;1.business_config_data保存业务申请的资源配置数据，其中包含系统名称、云资源id，增加状态：申请中、已审批&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;cloud_hosts_config_data 用于保存从天翼云历史云资源配置，这些配置都是在卫星公司名下的，并且状态：已稽核、已删除、待稽核&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;3.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="680" width="640" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-6" value="flavor_cpu" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-6" value="flavor_cpu" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="480" y="435" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-7" value="flavor_ram" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-7" value="flavor_ram" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="480" y="410" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-8" value="sys_disk_data_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-8" value="sys_disk_data_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="479" y="387" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-9" value="data_disk_size" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-9" value="data_disk_size" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="481" y="459" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-10" value="data_disk_data_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-10" value="data_disk_data_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="480" y="480" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KedwjEbMvOpd881-6sAJ-11">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KedwjEbMvOpd881-6sAJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-11" value="卫星云资源数据&lt;div&gt;定时更新&lt;/div&gt;&lt;div&gt;资源新增、修改、删除情况会在此展示&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-11" value="卫星云资源数据&lt;div&gt;定时更新&lt;/div&gt;&lt;div&gt;资源新增、修改、删除情况会在此展示&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-60" y="-440" width="290" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KedwjEbMvOpd881-6sAJ-12">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KedwjEbMvOpd881-6sAJ-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-12" value="申请数据&lt;div&gt;申请信息、&lt;/div&gt;&lt;div&gt;申请状态、和资源的关联关系&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-12" value="申请数据&lt;div&gt;申请信息、&lt;/div&gt;&lt;div&gt;申请状态、和资源的关联关系&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="470" y="-440" width="290" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KedwjEbMvOpd881-6sAJ-13" target="KedwjEbMvOpd881-6sAJ-12">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KedwjEbMvOpd881-6sAJ-13" target="KedwjEbMvOpd881-6sAJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-13" value="效能平台" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-13" value="效能平台" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="-970" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.424;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KedwjEbMvOpd881-6sAJ-11">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.424;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KedwjEbMvOpd881-6sAJ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="-550" as="sourcePoint" />
             <mxPoint x="80" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-17" value="天翼云接口" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-17" value="天翼云接口" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-20" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KedwjEbMvOpd881-6sAJ-20" target="KedwjEbMvOpd881-6sAJ-11">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KedwjEbMvOpd881-6sAJ-20" target="KedwjEbMvOpd881-6sAJ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-24" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KedwjEbMvOpd881-6sAJ-23">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-24" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KedwjEbMvOpd881-6sAJ-23" vertex="1" connectable="0">
           <mxGeometry x="-0.4344" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-20" value="关联绑定（手工）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;资源ID和申请的ID关联&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-20" value="关联绑定（手工）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;资源ID和申请的ID关联&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="-80" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KedwjEbMvOpd881-6sAJ-20" target="KedwjEbMvOpd881-6sAJ-12">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KedwjEbMvOpd881-6sAJ-20" target="KedwjEbMvOpd881-6sAJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KedwjEbMvOpd881-6sAJ-22" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KedwjEbMvOpd881-6sAJ-21">
+        <mxCell id="KedwjEbMvOpd881-6sAJ-22" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KedwjEbMvOpd881-6sAJ-21" vertex="1" connectable="0">
           <mxGeometry x="-0.4147" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
